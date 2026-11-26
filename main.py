@@ -9,8 +9,8 @@ import os
 
 
 def build_line():
-    return ("One star. Ghosted me for a week, came back a different shape, "
-            "and messed with the ocean while I slept. Blocked.")
+    return ("One star. Vanished for a week, came back a different shape, "
+            "and stirred the ocean while I slept. Blocked.")
 
 
 def main():
